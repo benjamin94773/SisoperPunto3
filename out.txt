@@ -1,0 +1,8 @@
+C-SCAN Sequence: 60 80 90 100 0 10 20 30 40 50 
+Total Movement (C-SCAN): 190 tracks
+Total Time (C-SCAN): 380 ms
+
+SCAN Sequence: 60 80 90 100 50 40 30 20 10 0 
+Total Movement (SCAN): 140 tracks
+Total Time (SCAN): 280 ms
+
